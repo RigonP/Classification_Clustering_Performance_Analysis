@@ -1,6 +1,6 @@
 # 🔬 Advanced Machine Learning - Iris Dataset Analysis
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10.9%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)](https://github.com)
 [![Academic Project](https://img.shields.io/badge/Type-Academic-orange?style=flat-square)](https://github.com)
 
