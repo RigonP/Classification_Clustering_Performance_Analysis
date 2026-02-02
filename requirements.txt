@@ -1,0 +1,19 @@
+# Python: 3.10.9
+
+# Core Scientific Computing
+numpy==2.2.6
+scipy==1.15.3
+
+# Data Manipulation & Analysis
+pandas==2.3.3
+
+# Machine Learning
+scikit-learn==1.7.2
+
+# Data Visualization
+matplotlib==3.7.2
+seaborn==0.13.2
+
+# Optional: For Jupyter notebooks (if needed)
+# jupyter==1.0.0
+# ipython==8.14.0
